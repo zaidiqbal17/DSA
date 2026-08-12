@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/zaidiqbal17/DSA/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/zaidiqbal17/DSA/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
