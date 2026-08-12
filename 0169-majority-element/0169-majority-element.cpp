@@ -7,13 +7,13 @@ public:
 
         for(int num : nums){
             mp[num]++;
-        }
 
-        for(int i=0;i<n;i++){
-            if(mp[nums[i]]>n/2){
-                return nums[i];
+            if(mp[num]>n/2){
+                return num;
             }
         }
+
+      
         return -1;
     }
 };
