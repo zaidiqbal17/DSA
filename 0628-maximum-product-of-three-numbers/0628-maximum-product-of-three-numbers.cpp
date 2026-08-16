@@ -30,9 +30,9 @@ public:
             else if(nums[i]<secondMIN){
                 secondMIN=nums[i];
             }
-          }
-        int ans = max(first * second * third,
-    firstMIN * secondMIN * first);;
+   
+    }
+     int ans = max(first*second*third,firstMIN*secondMIN*first);
         return ans;
     }
 };
