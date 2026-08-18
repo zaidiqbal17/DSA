@@ -7,8 +7,12 @@ private:
         for(int i=0;i<n;i++){
             // divisor +=ceil((double)nums[i]/(double)mid);
             divisor +=(nums[i]+mid-1)/mid;
+
+            if(divisor>threshold){
+                return 0;
+            }
         }
-        return threshold>=divisor;
+        return 1;
     }
     
 
