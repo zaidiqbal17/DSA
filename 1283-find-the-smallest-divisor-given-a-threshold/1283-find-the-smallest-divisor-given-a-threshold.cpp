@@ -5,7 +5,8 @@ private:
         int n = nums.size();
         int divisor = 0;
         for(int i=0;i<n;i++){
-            divisor +=ceil((double)nums[i]/(double)mid);
+            // divisor +=ceil((double)nums[i]/(double)mid);
+            divisor +=(nums[i]+mid-1)/mid;
         }
         return threshold>=divisor;
     }
