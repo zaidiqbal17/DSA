@@ -12,13 +12,13 @@ private :
         return maxi;
     }
 
-    long long calculateTotal(int mid,vector<int>& piles){
+    bool calculateTotal(int mid,vector<int>& piles, int h){
       
       long long hour = 0;
       for(int i=0;i<piles.size();i++){
-             hour +=ceil((double)piles[i]/(double)mid);
+             hour +=(piles[i]+mid-1)/mid;
       }
-      return hour;
+      return hour<=h;
        
     }
 public:
@@ -29,9 +29,7 @@ public:
         while(low<=high){
             int mid = (low+high)>>1;
 
-            long long totalHour = calculateTotal(mid,piles);
-
-            if(totalHour<=h){
+            if( calculateTotal(mid,piles,h)){
                 high = mid-1;
             }
             else{
