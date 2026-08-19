@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/zaidiqbal17/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zaidiqbal17/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/zaidiqbal17/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/zaidiqbal17/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidiqbal17/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/zaidiqbal17/DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/zaidiqbal17/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zaidiqbal17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/zaidiqbal17/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zaidiqbal17/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/zaidiqbal17/DSA/tree/master/0611-valid-triangle-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zaidiqbal17/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zaidiqbal17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/zaidiqbal17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/zaidiqbal17/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/zaidiqbal17/DSA/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/zaidiqbal17/DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/zaidiqbal17/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zaidiqbal17/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/zaidiqbal17/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/zaidiqbal17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/zaidiqbal17/DSA/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/zaidiqbal17/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidiqbal17/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zaidiqbal17/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/zaidiqbal17/DSA/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
