@@ -1,9 +1,9 @@
 class Solution {
 public:
     int triangleNumber(vector<int>& nums) {
-        int n = nums.size();
         sort(nums.begin(), nums.end());
 
+        int n = nums.size();
         int count = 0;
 
         for (int k = n - 1; k >= 2; k--) {
@@ -12,7 +12,7 @@ public:
 
             while (i < j) {
                 if (nums[i] + nums[j] > nums[k]) {
-                    count += j - i;
+                    count += (j - i);
                     j--;
                 }
                 else {
