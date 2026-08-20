@@ -14,12 +14,15 @@ private:
     long long sum = 0;
     int n = weights.size();
     for(int i=0;i<n;i++){
-        sum +=weights[i];
-        if(sum>mid){
-            requiredDay++;
-            sum = weights[i];
+         if(sum + weights[i] > mid) {
+                requiredDay++;
+                sum = weights[i];
+            }
+            else {
+                sum += weights[i];
+            }
         }
-    }
+    
       return requiredDay<=days;
 
    }
