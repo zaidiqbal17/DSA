@@ -8,9 +8,9 @@ public:
             if(arr[i]<=k){
                 k++;
             }
-            else{
-                break;
-            }
+            // else{
+            //     break;
+            // }
         }
         return k;
 
