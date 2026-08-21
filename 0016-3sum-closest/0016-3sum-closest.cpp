@@ -20,11 +20,11 @@ public:
             if (currentSum < target) {
                 left++;
             } 
-            else if (currentSum > target) {
-                right--;
-            } 
+            // else if (currentSum > target) {
+            //     right--;
+            // } 
             else {
-                break;  
+                right--;  
             }
         }
     }
