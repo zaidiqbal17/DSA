@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zaidiqbal17/DSA/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/zaidiqbal17/DSA/tree/master/0016-3sum-closest) |
 | [0136-single-number](https://github.com/zaidiqbal17/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zaidiqbal17/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/zaidiqbal17/DSA/tree/master/0162-find-peak-element) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/zaidiqbal17/DSA/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zaidiqbal17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/zaidiqbal17/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zaidiqbal17/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/zaidiqbal17/DSA/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/zaidiqbal17/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zaidiqbal17/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zaidiqbal17/DSA/tree/master/0242-valid-anagram) |
