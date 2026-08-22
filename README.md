@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/zaidiqbal17/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zaidiqbal17/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/zaidiqbal17/DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/zaidiqbal17/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zaidiqbal17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/zaidiqbal17/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zaidiqbal17/DSA/tree/master/0217-contains-duplicate) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/zaidiqbal17/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/zaidiqbal17/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/zaidiqbal17/DSA/tree/master/0018-4sum) |
+| [0164-maximum-gap](https://github.com/zaidiqbal17/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/zaidiqbal17/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zaidiqbal17/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zaidiqbal17/DSA/tree/master/0242-valid-anagram) |
@@ -172,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zaidiqbal17/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/zaidiqbal17/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/zaidiqbal17/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/zaidiqbal17/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
