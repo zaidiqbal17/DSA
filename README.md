@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zaidiqbal17/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/zaidiqbal17/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/zaidiqbal17/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/zaidiqbal17/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zaidiqbal17/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/zaidiqbal17/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zaidiqbal17/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/zaidiqbal17/DSA/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/zaidiqbal17/DSA/tree/master/0611-valid-triangle-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/zaidiqbal17/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/zaidiqbal17/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Dynamic Programming
 |  |
