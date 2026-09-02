@@ -1,10 +1,46 @@
 class Solution {
+private:
+    int findMaxproduct(vector<int>& nums){
+       int n = nums.size();
+       int first = -1;
+       int second = -1;
+
+       for(int i=0;i<n;i++){
+        if(nums[i]>first){
+            second = first;
+            first = nums[i];
+        }
+        
+        else if(nums[i]>second){
+                second = nums[i];
+            }
+        
+     
+       }
+       return first*second;
+    }
+     int findMinproduct(vector<int>& nums){
+       int n = nums.size();
+       int first = INT_MAX;
+       int second = INT_MAX;
+
+       for(int i=0;i<n;i++){
+        if(nums[i]<first){
+            second = first;
+            first = nums[i];
+        }
+        else if(nums[i]<second){
+            second = nums[i];
+        }
+       }
+       return first*second;
+    }
 public:
     int maxProductDifference(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(),nums.end());
-        
-        int ans = (nums[n-1]*nums[n-2])-(nums[0]*nums[1]);
+       int maxProduct = findMaxproduct(nums);
+       int minProduct = findMinproduct(nums);
+
+       int ans = maxProduct - minProduct;
 
         return ans;
         
