@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zaidiqbal17/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/zaidiqbal17/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/zaidiqbal17/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/zaidiqbal17/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zaidiqbal17/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zaidiqbal17/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/zaidiqbal17/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/zaidiqbal17/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidiqbal17/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/zaidiqbal17/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/zaidiqbal17/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## String
 |  |
 | ------- |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/zaidiqbal17/DSA/tree/master/0164-maximum-gap) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/zaidiqbal17/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
