@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/zaidiqbal17/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/zaidiqbal17/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/zaidiqbal17/DSA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/zaidiqbal17/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/zaidiqbal17/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/zaidiqbal17/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zaidiqbal17/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -178,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/zaidiqbal17/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/zaidiqbal17/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zaidiqbal17/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zaidiqbal17/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/zaidiqbal17/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zaidiqbal17/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/zaidiqbal17/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
