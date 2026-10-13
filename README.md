@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/zaidiqbal17/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/zaidiqbal17/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zaidiqbal17/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/zaidiqbal17/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zaidiqbal17/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/zaidiqbal17/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/zaidiqbal17/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidiqbal17/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/zaidiqbal17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/zaidiqbal17/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/zaidiqbal17/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/zaidiqbal17/DSA/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/zaidiqbal17/DSA/tree/master/0611-valid-triangle-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zaidiqbal17/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/zaidiqbal17/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/zaidiqbal17/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Dynamic Programming
 |  |
